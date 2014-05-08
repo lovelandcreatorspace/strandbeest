@@ -26,6 +26,12 @@ We're here to do just that. We intend to create a Strandbeest bike capable of ca
 -----------
 
 ##Baby Steps##
-At present, a conceptual design is in the making, starting with 3D-Printed prototypes for testing and proof-of-concept purposes. Check out the rest of this repository to see our work thus far!
+At present, a conceptual design is in the making, starting with 3D-Printed prototypes for testing and proof-of-concept purposes. 
+
+Below are the ratios used in Theo Jansen's starndbeest design. This is where we will begin.
+
+![11 Holy Numbers](http://www.mechanicalspider.com/elements/jpegs/jansenlinkage.jpg)
+
+Check out the rest of this repository to see our work thus far!
 
 
